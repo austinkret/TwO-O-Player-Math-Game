@@ -15,4 +15,3 @@
 
 # Questions
 ### Generate the random question that is prompted
-### Know which player is answering the question
